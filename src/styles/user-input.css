@@ -1,0 +1,16 @@
+.both-inputs-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-weight: 500;
+  margin: 20px;
+}
+
+.first-actor-container {
+  margin: 10px;
+}
+
+.second-actor-container {
+  margin: 10px;
+}
